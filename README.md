@@ -19,6 +19,18 @@ https://github.com/Vickout/Conceitos-nodejs
 
 ## Módulo 02 - Conhecendo o ReactJS
 
+* Conceitos do ReactJS
+* Configurando Babel
+* Configurando Webpack
+* Conponentização
+* Propriedades
+* Estado e Imutabilidade
+* Importando CSS e imagens
+* Listando Projetos da API
+* Cadastrando Projetos
+
+### Desafio do módulo
+
 <h4 align="center"> 
-	📚  Conceitos ReactJS ⚛ Aprendendo...  📚
+	🛠  Listar, Adicionar e Remover repositórios utilizando ReactJS ⚛ Desenvolvendo...  🚧
 </h4>
