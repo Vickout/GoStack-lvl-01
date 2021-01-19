@@ -31,6 +31,17 @@ https://github.com/Vickout/Conceitos-nodejs
 
 ### Desafio do módulo
 
-<h4 align="center"> 
-	🛠  Listar, Adicionar e Remover repositórios utilizando ReactJS ⚛ Desenvolvendo...  🚧
-</h4>
+https://github.com/Vickout/Conceitos-reactjs
+
+## Módulo 03 - Conhecendo o React Native
+
+* Arquitetura React Native
+* Configurando SDK
+* Criando Novo Projeto
+* Diferenças do ReactJS
+* Listando Projetos da API
+* Criando Novos Projetos
+
+### Desafio do módulo
+
+https://github.com/Vickout/Conceitos-react-native
